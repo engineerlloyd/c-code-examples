@@ -1,2 +1,2 @@
 # c program examples
-long list of c programming examples
+1. a long list of c program examples
